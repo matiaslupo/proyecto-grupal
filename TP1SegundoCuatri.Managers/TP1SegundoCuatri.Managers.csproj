@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TP1SegundoCuatri.Datos\TP1SegundoCuatri.Datos.csproj" />
+    <ProjectReference Include="..\TP1SegundoCuatri.Modelo\TP1SegundoCuatri.Modelo.csproj" />
+  </ItemGroup>
+
+</Project>
